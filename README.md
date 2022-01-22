@@ -5,6 +5,10 @@ This is just an adaptation of the [existing integration](https://github.com/home
 
 This integration will not work for the US, just use the original and supported one.
 
+## Installation 
+Just copy the <strong><em>sharkiq</strong></em> directory to the <strong><em>custom_components</strong></em> folder on your home assistant installation. 
+
+
 ## Known Issues
 
 #### Integration loses connection frequently
