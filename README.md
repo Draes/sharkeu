@@ -6,7 +6,7 @@ This is just an adaptation of the [existing integration](https://github.com/home
 This integration will not work for the US, just use the original and supported one.
 
 ## Installation 
-Just copy the `sharkiq` directory to the `custom_components` folder on your home assistant installation. 
+Just copy the `sharkiqeu` directory to the `custom_components` folder on your home assistant installation. 
 
 
 ## Known Issues
